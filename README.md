@@ -1,3 +1,3 @@
 # dierenambulance-loading
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/sheeeshhhhdierenambulancelogo-goftqv)
+[Preview ](https://sheeeshhhhdierenambulancelogo-goftqv.stackblitz.io)
